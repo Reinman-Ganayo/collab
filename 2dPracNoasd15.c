@@ -33,7 +33,7 @@ int Print(int A[][100], int rows, int columns)
 
 int main() {
 	int n;
-    int A[100][100] = {{1,2,3},{4,5,6},{7,8,9}};
+    int A[100][100] = {{123,2,3},{4,5,6},{7,8,9}};
 	float B [3];
     Avg (A, B, 3);
     Print(A, 3, 3);
